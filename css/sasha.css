@@ -68,6 +68,8 @@
 }
 .news-tabs img {
     width: 100%;
+    max-width: 350px;
+    max-height: 200.5px;
 }
 .nav-tabs {
     border-bottom: none;
