@@ -125,8 +125,31 @@
     border-radius: 5px;
     color: #fff;
 }
+.footer::after {
+    background-color: transparent !important;
+}
 .skfooter p {
 	margin: 0;
 	color: #ffffff;
 	padding: 5px 0;
+}
+.middle-sec {
+    border-top: 1px solid #ccc;
+    padding: 30px 45px 0;
+}
+.middle-sec a {
+    color: #444;
+}
+.middle-sec ul li {
+    padding-right: 60px;
+}
+.bottom-sec {
+    padding: 30px 45px 0;
+}
+.bottom-sec a {
+    color: #444;
+}
+.bottom-sec h4 {
+    position: absolute;
+    top: -47px;
 }
