@@ -52,12 +52,15 @@
 	background-color: #080a8b;
 	margin-bottom: 20px;
 }
+<<<<<<< HEAD
 .head h4 {
     color: #fff;
     padding: 15px;
     background-color: #080a8b;
     margin-bottom: 20px;
 }
+=======
+>>>>>>> 55ab2f57bf4096cabedc19d0bddec24d7bdd167d
 .box-body li {
     margin-bottom: 10px;
 }
@@ -69,9 +72,12 @@
     display: block;
     line-height: 18px;
 }
+<<<<<<< HEAD
 .box-body form {
     padding: 21px;
 }
+=======
+>>>>>>> 55ab2f57bf4096cabedc19d0bddec24d7bdd167d
 .newsroom {
     padding: 51px 0;
 }
@@ -161,6 +167,7 @@
 .bottom-sec h4 {
     position: absolute;
     top: -47px;
+<<<<<<< HEAD
 }
 .download-page {
     text-align: center;
@@ -172,4 +179,6 @@
     max-width: 200px;
     margin: 0 auto;
     padding: 15px;
+=======
+>>>>>>> 55ab2f57bf4096cabedc19d0bddec24d7bdd167d
 }
